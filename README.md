@@ -2,7 +2,7 @@
 This is a draft technical assessment for analyst and associate candidates.
 The exercises involve using APIs, command line tools, and Excel to download and manipulate data.
 
-Upon completion of the following exercises, email the files below to [ratul.esrar@sagenceconsulting.com](mailto:ratul.esrar@sagenceconsulting.com).
+Upon completion of the following exercises, email the files below to [training@sagenceconsulting.com](mailto:training@sagenceconsulting.com).
 ```bash
 salaries.sh
 ANSWERS.txt
