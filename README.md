@@ -45,7 +45,8 @@ For the following questions, store answers in an Excel tab called "Answers". For
 6. Use an in-line formula to split the names into first names, last names, and middle initials. Then answer the following questions:
   * What is the most common last name?
   * What percentage of employees have no middle initial?
-7. Write a simple macro to create a new sheet with only police and fire department employees. How many emergency responders does the city employ?
+7. Write a simple macro to create a new sheet with only police and fire department employees.
+  * How many emergency responders does the city employ?
 8. Save your edited spreadsheet as a file called `salaries_analysis.xlsx`.
 
 Please email the files you edited to [training@sagenceconsulting.com](mailto:training@sagenceconsulting.com).
