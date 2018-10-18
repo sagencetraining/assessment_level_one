@@ -22,7 +22,7 @@ https://data.cityofchicago.org/api/views/xzkq-xp2w/rows.csv
 ## Exercises
 
 ### Command Line
-For the following exercises, you will use cygwin terminal, which allows you to run unix commands in a Windows environment. Store all code for this section in shell script file called `salaries.sh`.
+For the following exercises, you will use cygwin terminal, which allows you to run unix commands in a Windows environment. You will download data to the cygwin honme directory, which is found at the path `C:\cygwin64\home\[your_user_name]`. Store all code for this section in shell script file called `salaries.sh`.
 
 1. Use the Chicago Data Portal API endpoint to download a CSV file of the salaries using `curl`. Save the data to an output file called `salaries.csv`.
 2. Using the salaries CSV file, write shell scripts to `salaries.sh` in order to answer the following questions:
@@ -38,6 +38,7 @@ There have been some updates to the salary information because some employees re
 4. Merge the new salaries with the salaries data downloaded earlier.
 
 For the following questions, store answers in an Excel tab called "Answers". Format your answers as table that could be presented to a client.
+
 5. Using the merged dataset, answer the following questions:
   * What department has the most employees?
   * Which departments have the highest average salaries?
