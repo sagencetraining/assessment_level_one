@@ -10,7 +10,11 @@ salaries_analysis.xlsx
 ```
 
 ## VM Setup
-Navigate to [sagence.cloud.com](sagence.cloud.com) and log in using your Sagence Windows credentials. You will be prompted to download the Citrix Workspace, which we recommend you use. There is also a lite version of Workspace that uses the browser that has limited features.
+You will need to download the desktop version of Citrix Workspace to log onto the virtual machine. Please download the Citrix Workspace application for your computer:
+  * [Windows download](https://www.citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-latest.html)
+  * [Mac download](https://www.citrix.com/downloads/workspace-app/mac/workspace-app-for-mac-latest.html)
+
+There is also a lite version of Workspace that can be accessed through [sagence.cloud.com](sagence.cloud.com) with limited features, so we recommend the desktop version. You can use your Sagence email credentials to log in. 
 
 ## Data
 
