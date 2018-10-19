@@ -9,6 +9,9 @@ ANSWERS.txt
 salaries_analysis.xlsx
 ```
 
+## VM Setup
+Navigate to [sagence.cloud.com](sagence.cloud.com) and log in using your Sagence Windows credentials. You will be prompted to download the Citrix Workspace, which we recommend you use. There is also a lite version of Workspace that uses the browser that has limited features.
+
 ## Data
 
 For these exercises, you will use the Chicago city salaries file.
