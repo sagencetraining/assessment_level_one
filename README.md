@@ -9,7 +9,7 @@ atus_queries.sql
 ```
 
 ## VM Setup
-Navigate to [sagence.cloud.com](sagence.cloud.com) and log in using your Sagence webmail credentials. You will be prompted to "Detect Workspace" and download the Citrix Workspace application. You may have trouble logging in if you have never reset your Sagence credentials. Please email [training@sagenceconsulting.com](mailto:training@sagenceconsulting.com) with any issues accessing the virtual machine.
+A virtual machine is available to complete this assessment, though you are not required to use it. To access the VM, navigate to [sagence.cloud.com](sagence.cloud.com) and log in using your Sagence webmail credentials. You will be prompted to "Detect Workspace" and download the Citrix Workspace application. You may have trouble logging in if you have never reset your Sagence credentials. Please email [training@sagenceconsulting.com](mailto:training@sagenceconsulting.com) with any issues accessing the virtual machine.
 
 If the Workspace application download does not automatically start, here are download links:
    * [Windows download](https://www.citrix.com/downloads/workspace-app/windows/workspace-app-for-windows-latest.html)
@@ -47,10 +47,13 @@ There have been some updates to the salary information because some employees re
 6. Save your edited spreadsheet as a file called `salaries_analysis.xlsx`.
 
 ### SQL
-For the following exercises, you will use SQL to query the 2003-2015 American Time Use Survey (ATUS). You will use SQLite in cygwin terminal, which allows you to run unix commands in a Windows environment. Download data to the cygwin home directory, which is found at the path `C:\cygwin64\home\[your_user_name]`. Store answers to the questions as comments accompanying your SQL scripts in a file called `atus_queries.sql`.
+For the following exercises, you will use SQL to query the 2003-2015 American Time Use Survey (ATUS). Use SQLite in a command line shell or a SQLite database browser to perform the exercises that follow. Store answers to the questions as comments accompanying your SQL scripts in a file called `atus_queries.sql`.
 
 #### Data
 Download the SQLite database [here](https://sagence.egnyte.com/dl/CF2KyiTbhw). 
+
+Download [DB Browser for SQLite](https://sqlitebrowser.org/dl/).
+
 You may find the ATUS [Data Dictionary](https://www.bls.gov/tus/atuscpscodebk16.pdf) and [Lexicon](https://www.bls.gov/tus/lexiconwex2016.pdf) useful.
 
 1. What state has the lowest proportion of people who are high school graduates?
